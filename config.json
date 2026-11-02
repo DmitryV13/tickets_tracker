@@ -1,0 +1,9 @@
+{
+  "output_dir": "C:/Users/Name/Documents/notes",
+  "letters_mode": "list",
+  "letters": ["A", "B", "C", "D", "E", "F"],
+  "fixed_letters": "ABC",
+  "strategy": "sequential",
+  "letters_count": 3,
+  "digits_count": 4
+}
